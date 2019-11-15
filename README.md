@@ -37,3 +37,10 @@ docker-composer up
 
 图片目录就在 运行 `docker-composer up` 的目录下，名为 `image`。
 
+## 开发过程
+
+此项目为 [方糖全栈课·React+Node版](http://node.quanzhanke.com) 必修课部分的实战项目，课程有对整个开发过程做详细的教学，感兴趣的同学可[点击购买](http://node.quanzhanke.com)。
+
+## License
+
+镜像可随意使用，项目代码保留版权。
