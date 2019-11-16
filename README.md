@@ -1,6 +1,15 @@
 # 方糖知识树·镜像版
 
-## 安装
+## 📼 教学视频
+
+[![](video_cover.png)](https://weibo.com/1088413295/Igrj1gOT9)
+
+## 👨🏻‍💻 开发过程
+
+此项目为 [方糖全栈课·React+Node版](http://node.quanzhanke.com) 必修课部分的实战项目，课程有对整个开发过程做详细的教学，感兴趣的同学可[点击购买](http://node.quanzhanke.com)。
+
+
+## ⚒ 安装
 
 ### 配置参数
 
@@ -16,7 +25,7 @@
 docker-composer up 
 ```
 
-## 使用 
+## 🌲 使用 
 
 ### 网页版 
 
@@ -36,10 +45,6 @@ docker-composer up
 ### 图片备份
 
 图片目录就在 运行 `docker-composer up` 的目录下，名为 `image`。
-
-## 开发过程
-
-此项目为 [方糖全栈课·React+Node版](http://node.quanzhanke.com) 必修课部分的实战项目，课程有对整个开发过程做详细的教学，感兴趣的同学可[点击购买](http://node.quanzhanke.com)。
 
 ## License
 
