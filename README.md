@@ -22,7 +22,7 @@
 ### 启动
 
 ```
-docker-composer up 
+docker-compose up 
 ```
 
 ## 🌲 使用 
@@ -44,7 +44,7 @@ docker-composer up
 
 ### 图片备份
 
-图片目录就在 运行 `docker-composer up` 的目录下，名为 `image`。
+图片目录就在 运行 `docker-compose up` 的目录下，名为 `image`。
 
 ## License
 
